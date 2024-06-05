@@ -3,7 +3,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="style.css">
-	<title>Document</title>
+	
 </head>
 <body>
 	   <h1><center>Image Search App</center></h1>
@@ -26,6 +26,7 @@
 					</div>
 		 </div>
 		 <center><button id="btn-show">Show more</button></center>
-		 <script src="script.js"></script>
+		 
 </body>
+	<script src="script.js"></script>
 </html>
